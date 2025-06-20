@@ -1,0 +1,66 @@
+
+
+
+log for ./gnu-make/bin/xporta dim -f examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim -f ./examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim ./examples/example.po 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim ./examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim ./examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim ../examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim ../../examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta dim ../../../examples/example.poi 
+
+invalid format of command line
+
+
+
+log for ./gnu-make/bin/xporta -dim /Users/jessicasinger/Desktop/repos/porta-1.4.1/examples/example.poi 
+
+invalid command line
+
+
+
+log for ./gnu-make/bin/xporta -D /Users/jessicasinger/Desktop/repos/porta-1.4.1/examples/example.poi -f ./examples/pep.prt 
+
+jess capa pasasget esa parte

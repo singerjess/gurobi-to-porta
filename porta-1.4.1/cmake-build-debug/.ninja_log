@@ -1,0 +1,21 @@
+# ninja log v5
+0	59	1664934299663720305	CMakeFiles/porta_1_4_1.dir/src/arith.c.o	5a862ad11857bb63
+1	59	1664934299660785256	CMakeFiles/porta_1_4_1.dir/src/largecalc.c.o	88b535e80ff64f7b
+1	73	1664934299682166481	CMakeFiles/porta_1_4_1.dir/src/inout.c.o	cfec9e5e93c20a59
+58	118	1664934299728937360	CMakeFiles/porta_1_4_1.dir/src/porta.c.o	ba8af5dbc4a1754e
+1	69	1664934299678826472	CMakeFiles/porta_1_4_1.dir/src/four_mot.c.o	e0cef584c055b474
+59	93	1664934299703161331	CMakeFiles/porta_1_4_1.dir/src/portsort.c.o	45d1b8f426f6dc69
+49	95	1664934299705468046	CMakeFiles/porta_1_4_1.dir/src/mp.c.o	299cf9c62f4ee01c
+1	50	1664934299658000123	CMakeFiles/porta_1_4_1.dir/src/common.c.o	6adb7c8d7be9fdb0
+2	48	1664934299653342610	CMakeFiles/porta_1_4_1.dir/src/log.c.o	a84244f29b3eb7e0
+60	101	1664934299711759021	CMakeFiles/porta_1_4_1.dir/src/valid.c.o	e9c4e0ac5ce9619a
+17	259	1721693850969783345	CMakeFiles/porta_1_4_1.dir/src/log.c.o	431bbf1641878f97
+17	261	1721693850971965357	CMakeFiles/porta_1_4_1.dir/src/common.c.o	a2b95275b3df19c7
+17	263	1721693850972339151	CMakeFiles/porta_1_4_1.dir/src/largecalc.c.o	5156af1d6c572ee4
+16	264	1721693850974188286	CMakeFiles/porta_1_4_1.dir/src/arith.c.o	d966e99187795dce
+17	271	1721693850982171080	CMakeFiles/porta_1_4_1.dir/src/four_mot.c.o	667c5266b9bc7541
+17	277	1721693850988722533	CMakeFiles/porta_1_4_1.dir/src/inout.c.o	af50921d29e09756
+263	294	1721693851005556958	CMakeFiles/porta_1_4_1.dir/src/portsort.c.o	b94d91d2672fd615
+260	299	1721693851010371485	CMakeFiles/porta_1_4_1.dir/src/mp.c.o	381e155153406977
+265	301	1721693851012779915	CMakeFiles/porta_1_4_1.dir/src/valid.c.o	7f8e8d27effa6b4e
+262	312	1721693851023345723	CMakeFiles/porta_1_4_1.dir/src/porta.c.o	2754f6a3e0e910db
